@@ -30,3 +30,7 @@ function subtract(p1,p2){
 }
 subtract(10,6)
 
+function square(s){
+    console.log(`square of ${s}=${s*s}`)
+}
+square(4)
