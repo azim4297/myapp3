@@ -30,3 +30,7 @@ function subtract(p1,p2){
 }
 subtract(10,6)
 
+function cube(c){
+    console.log(`cube of ${c}=${c*c*c}`)
+}
+cube(3)
