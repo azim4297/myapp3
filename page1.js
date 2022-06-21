@@ -30,14 +30,11 @@ function subtract(p1,p2){
 }
 subtract(10,6)
 
-<<<<<<< HEAD
 function square(s){
     console.log(`square of ${s}=${s*s}`)
 }
 square(4)
-=======
 function cube(c){
     console.log(`cube of ${c}=${c*c*c}`)
 }
 cube(3)
->>>>>>> function_cube
