@@ -38,3 +38,8 @@ function cube(c){
     console.log(`cube of ${c}=${c*c*c}`)
 }
 cube(3)
+
+function add1(p1,p2){
+    console.log(`${p1+p2}`)
+}
+add1(10,20)
