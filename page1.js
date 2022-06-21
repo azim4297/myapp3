@@ -43,3 +43,8 @@ function add1(p1,p2){
     console.log(`${p1+p2}`)
 }
 add1(10,20)
+
+function add2(p1,p2){
+    console.log(`${p1+p2}`)
+}
+add2(30,40)
